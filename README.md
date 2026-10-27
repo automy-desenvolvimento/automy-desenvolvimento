@@ -87,13 +87,7 @@ Aplicações para gestão operacional, clientes, frota, financeiro, atendimento 
 
 > Os indicadores acima foram verificados no perfil em 27/10/2026. O GitHub pode exibir números diferentes em serviços públicos quando os repositórios são privados.
 
-## Conquistas
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=automy-desenvolvimento&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="Conquistas do GitHub" />
-</p>
-
----
 
 <p align="center">
   <i>Software bem construído transforma complexidade em movimento.</i><br />
