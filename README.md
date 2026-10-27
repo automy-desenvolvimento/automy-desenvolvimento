@@ -103,6 +103,10 @@ Atuo principalmente com plataformas operacionais, integrações, automação de 
 
 > As miniaturas são telas reais dos sistemas e materiais de demonstração. Para Sincronizador e SICX, mantive uma apresentação técnica porque não há uma tela de login pública/sanitizada disponível.
 
+## 🎥 Bastidores do trabalho
+
+[▶️ Assistir a Adrian trabalhando](https://github.com/automy-desenvolvimento/automy-desenvolvimento/raw/e37aa146130b6aaa6c194d41e881dfaba0a1cbaa/assets/adrian-trabalhando.mp4)
+
 ## Indicadores do perfil
 
 <p align="left">
