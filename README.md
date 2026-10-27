@@ -56,7 +56,7 @@ Atuo principalmente com plataformas operacionais, integrações, automação de 
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/automy-desenvolvimento/pls-gestao-operacional">
-        <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/main/assets/projetos/pls-cargo.jpg" alt="Tela real do PLS Cargo" width="100%" />
+        <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/main/assets/projetos/pls-cargo.jpg?v=e3c32e5" alt="Tela real do PLS Cargo" width="100%" />
       </a>
       <br />
       <strong>PLS Cargo</strong><br />
@@ -64,7 +64,7 @@ Atuo principalmente com plataformas operacionais, integrações, automação de 
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/automy-desenvolvimento/sistema-de-pnr-e-tratativas-">
-        <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/main/assets/projetos/caxiense.jpg" alt="Tela real do sistema Caxiense" width="100%" />
+        <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/main/assets/projetos/caxiense.jpg?v=e3c32e5" alt="Tela real do sistema Caxiense" width="100%" />
       </a>
       <br />
       <strong>Caxiense</strong><br />
@@ -87,13 +87,13 @@ Atuo principalmente com plataformas operacionais, integrações, automação de 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/main/assets/projetos/transporclay.jpg" alt="Tela real do Transporclay" width="100%" />
+      <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/main/assets/projetos/transporclay.jpg?v=e3c32e5" alt="Tela real do Transporclay" width="100%" />
       <br />
       <strong>Transporclay</strong><br />
       Gestão de fretes, frota, manutenção, financeiro, clientes e programação.
     </td>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/main/assets/projetos/nucleo-consultoria.jpg" alt="Tela real do Núcleo Consultoria" width="100%" />
+      <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/main/assets/projetos/nucleo-consultoria.jpg?v=e3c32e5" alt="Tela real do Núcleo Consultoria" width="100%" />
       <br />
       <strong>Núcleo-Consultoria</strong><br />
       Plataforma de gestão consultiva com clientes, projetos, financeiro e indicadores.
