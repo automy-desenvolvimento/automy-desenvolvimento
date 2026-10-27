@@ -76,20 +76,16 @@ Aplicações para gestão operacional, clientes, frota, financeiro, atendimento 
 
 > Indicadores observados no perfil em 27/10/2026. Os cards abaixo são atualizados automaticamente. Repositórios privados podem não aparecer nos serviços públicos de estatísticas.
 
-## Estatísticas e atividade
+## Indicadores do perfil
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=automy-desenvolvimento&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=automy-desenvolvimento&repo=adrian_luciano&theme=github_dark&hide_border=true&locale=pt-br" alt="Repositório de perfil" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Repositórios-9-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="9 repositórios" />
+  <img src="https://img.shields.io/badge/Contribuições%20no%20último%20ano-72-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="72 contribuições no último ano" />
+  <img src="https://img.shields.io/badge/Commits%20em%20outubro%20de%202026-62-8957e5?style=for-the-badge&logo=git&logoColor=white" alt="62 commits em outubro de 2026" />
+  <img src="https://img.shields.io/badge/Tecnologias%20em%20destaque-12-161b22?style=for-the-badge&logo=stackshare&logoColor=white" alt="12 tecnologias em destaque" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=automy-desenvolvimento&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=automy-desenvolvimento&theme=github-compact&hide_border=true&area=true" alt="Gráfico de atividade no GitHub" />
-</p>
+> Os indicadores acima foram verificados no perfil em 27/10/2026. O GitHub pode exibir números diferentes em serviços públicos quando os repositórios são privados.
 
 ## Conquistas
 
