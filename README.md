@@ -79,8 +79,8 @@ Aplicações para gestão operacional, clientes, frota, financeiro, atendimento 
 ## Estatísticas e atividade
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=automy-desenvolvimento&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=automy-desenvolvimento&layout=compact&hide_border=true&theme=github_dark&langs_count=8&count_private=true&locale=pt-br" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=automy-desenvolvimento&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=automy-desenvolvimento&repo=adrian_luciano&theme=github_dark&hide_border=true&locale=pt-br" alt="Repositório de perfil" />
 </p>
 
 <p align="center">
