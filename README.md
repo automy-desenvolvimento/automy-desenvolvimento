@@ -56,7 +56,7 @@ Atuo principalmente com plataformas operacionais, integrações, automação de 
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/automy-desenvolvimento/pls-gestao-operacional">
-        <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/main/assets/projetos/pls-cargo.jpg" alt="Tela real do PLS Cargo" width="100%" />
+        <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/main/assets/projetos/pls-cargo-mini.jpg" alt="Tela real do PLS Cargo" width="100%" />
       </a>
       <br />
       <strong>PLS Cargo</strong><br />
@@ -73,31 +73,25 @@ Atuo principalmente com plataformas operacionais, integrações, automação de 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/automy-desenvolvimento/Sincronizador">
-        <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/main/assets/projetos/nucleo-consultoria.jpg" alt="Interface de operações e integrações" width="100%" />
-      </a>
-      <br />
+      <p align="center"><br />🔁<br /><br /></p>
       <strong>Sincronizador</strong><br />
-      Integrações, sincronização idempotente, coleta assistida e automação de fluxos.
+      Serviço de integração e automação sem tela de login pública: sincronização idempotente, coleta assistida, eventos e APIs.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/automy-desenvolvimento/sistema-de-pnr-e-tratativas-">
-        <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/main/assets/projetos/transporclay.jpg" alt="Tela real de gestão de transporte" width="100%" />
-      </a>
-      <br />
+      <p align="center"><br />📊<br /><br /></p>
       <strong>SICX</strong><br />
-      Inteligência operacional, relatórios, indicadores e acompanhamento de exceções.
+      Inteligência operacional, conferência, relatórios, indicadores e acompanhamento de exceções.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/main/assets/projetos/transporclay.jpg" alt="Tela real do Transporclay" width="100%" />
+      <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/main/assets/projetos/transporclay-mini.jpg" alt="Tela real do Transporclay" width="100%" />
       <br />
       <strong>Transporclay</strong><br />
       Gestão de fretes, frota, manutenção, financeiro, clientes e programação.
     </td>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/main/assets/projetos/nucleo-consultoria.jpg" alt="Tela real do Núcleo Consultoria" width="100%" />
+      <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/main/assets/projetos/nucleo-mini.jpg" alt="Tela real do Núcleo Consultoria" width="100%" />
       <br />
       <strong>Núcleo-Consultoria</strong><br />
       Plataforma de gestão consultiva com clientes, projetos, financeiro e indicadores.
@@ -105,7 +99,7 @@ Atuo principalmente com plataformas operacionais, integrações, automação de 
   </tr>
 </table>
 
-> As imagens são miniaturas reais de telas e materiais dos sistemas. Sincronizador e SICX são apresentados como soluções de integração e inteligência operacional; não possuem uma tela de login pública no material localizado.
+> As miniaturas são telas reais dos sistemas e materiais de demonstração. Para Sincronizador e SICX, mantive uma apresentação técnica porque não há uma tela de login pública/sanitizada disponível.
 
 ## Indicadores do perfil
 
