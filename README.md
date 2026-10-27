@@ -73,9 +73,10 @@ Atuo principalmente com plataformas operacionais, integrações, automação de 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><br />🔁<br /><br /></p>
+      <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/main/assets/projetos/sincronizador.jpg" alt="Tela real do Sincronizador OBTSDADOS" width="100%" />
+      <br />
       <strong>Sincronizador</strong><br />
-      Serviço de integração e automação sem tela de login pública: sincronização idempotente, coleta assistida, eventos e APIs.
+      Painel de coleta PNR, sincronização de dados, acompanhamento de filas e operação assistida.
     </td>
     <td width="50%" valign="top">
       <p align="center"><br />📊<br /><br /></p>
