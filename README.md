@@ -1,10 +1,10 @@
-# Adrian Luciano
+# Olá, eu sou Adrian Luciano 👋
 
-### Software Engineer • Arquitetura, Automação e Produtos Digitais
+### Desenvolvedor de Software • Arquitetura, Automação e Produtos Digitais
 
 Construo sistemas confiáveis para transformar operações complexas em fluxos simples, mensuráveis e escaláveis.
 
-Atuo principalmente com plataformas operacionais, integrações, automação de processos, dados e experiências digitais para logística e atendimento.
+Atuo principalmente com plataformas operacionais, integrações, automação de processos, dados e experiências digitais para logística, transporte e atendimento.
 
 <p align="left">
   <a href="https://github.com/automy-desenvolvimento?tab=repositories">
@@ -21,8 +21,8 @@ Atuo principalmente com plataformas operacionais, integrações, automação de 
 
 - Desenvolvedor focado em resolver problemas reais de negócio com software.
 - Experiência prática em produtos para logística, transporte, atendimento e operações.
-- Interesse constante em arquitetura, qualidade de código, observabilidade e segurança.
 - Construção de soluções ponta a ponta: descoberta, modelagem, APIs, interfaces, dados, testes e entrega.
+- Interesse constante em arquitetura, qualidade de código, observabilidade e segurança.
 - Mentalidade de produto: tecnologia precisa gerar clareza operacional, produtividade e resultado.
 
 ## Como penso engenharia
@@ -64,31 +64,42 @@ Fluxos idempotentes para sincronização de dados, coleta assistida, automação
 
 Aplicações para gestão operacional, clientes, frota, financeiro, atendimento e indicadores — com foco em clareza e produtividade.
 
-> Parte dos projetos é privada por envolver operações e dados empresariais. O código público deste perfil funciona como uma visão geral da minha atuação e dos problemas que gosto de resolver.
+> Parte dos projetos é privada por envolver operações e dados empresariais.
 
-## GitHub Analytics
+## Números do GitHub
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Repositórios-9-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="9 repositórios" />
+  <img src="https://img.shields.io/badge/Contribuições%20no%20último%20ano-72-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="72 contribuições no último ano" />
+  <img src="https://img.shields.io/badge/Commits%20em%20outubro%20de%202026-62-8957e5?style=for-the-badge&logo=git&logoColor=white" alt="62 commits em outubro de 2026" />
+</p>
+
+> Indicadores observados no perfil em 27/10/2026. Os cards abaixo são atualizados automaticamente. Repositórios privados podem não aparecer nos serviços públicos de estatísticas.
+
+## Estatísticas e atividade
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=automy-desenvolvimento&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=automy-desenvolvimento&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=automy-desenvolvimento&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=automy-desenvolvimento&layout=compact&hide_border=true&theme=github_dark&langs_count=8&count_private=true&locale=pt-br" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=automy-desenvolvimento&theme=github-dark-blue&hide_border=true" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com?user=automy-desenvolvimento&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 </p>
 
-## Atividade recente
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=automy-desenvolvimento&theme=github-compact&hide_border=true&area=true" alt="Gráfico de atividade no GitHub" />
+</p>
+
+## Conquistas
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=automy-desenvolvimento&theme=github-compact&hide_border=true" alt="Gráfico de atividade no GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=automy-desenvolvimento&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="Conquistas do GitHub" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Software bem construído transforma complexidade em movimento.</i>
-</p>
-
-<p align="center">
+  <i>Software bem construído transforma complexidade em movimento.</i><br />
   Feito com estratégia, código e café ☕
 </p>
