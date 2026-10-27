@@ -52,29 +52,60 @@ Atuo principalmente com plataformas operacionais, integrações, automação de 
 
 ## Projetos em destaque
 
-### Sistemas operacionais para logística
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/automy-desenvolvimento/pls-gestao-operacional">
+        <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/main/assets/projetos/pls-cargo.jpg" alt="Tela real do PLS Cargo" width="100%" />
+      </a>
+      <br />
+      <strong>PLS Cargo</strong><br />
+      Plataforma de gestão para operação, frota, financeiro, rotas e entregas.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/automy-desenvolvimento/sistema-de-pnr-e-tratativas-">
+        <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/main/assets/projetos/caxiense-mini.jpg" alt="Tela real do sistema Caxiense" width="100%" />
+      </a>
+      <br />
+      <strong>Caxiense</strong><br />
+      Painel operacional para PNRs, atendimento, tratativas e reentregas.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/automy-desenvolvimento/Sincronizador">
+        <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/main/assets/projetos/nucleo-consultoria.jpg" alt="Interface de operações e integrações" width="100%" />
+      </a>
+      <br />
+      <strong>Sincronizador</strong><br />
+      Integrações, sincronização idempotente, coleta assistida e automação de fluxos.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/automy-desenvolvimento/sistema-de-pnr-e-tratativas-">
+        <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/main/assets/projetos/transporclay.jpg" alt="Tela real de gestão de transporte" width="100%" />
+      </a>
+      <br />
+      <strong>SICX</strong><br />
+      Inteligência operacional, relatórios, indicadores e acompanhamento de exceções.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/main/assets/projetos/transporclay.jpg" alt="Tela real do Transporclay" width="100%" />
+      <br />
+      <strong>Transporclay</strong><br />
+      Gestão de fretes, frota, manutenção, financeiro, clientes e programação.
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/main/assets/projetos/nucleo-consultoria.jpg" alt="Tela real do Núcleo Consultoria" width="100%" />
+      <br />
+      <strong>Núcleo-Consultoria</strong><br />
+      Plataforma de gestão consultiva com clientes, projetos, financeiro e indicadores.
+    </td>
+  </tr>
+</table>
 
-Plataformas para acompanhar remessas, tratar ocorrências, organizar reentregas e dar visibilidade às equipes de operação.
-
-### Integrações e automação
-
-Fluxos idempotentes para sincronização de dados, coleta assistida, automação de tarefas e integração entre sistemas legados e modernos.
-
-### Produtos de gestão
-
-Aplicações para gestão operacional, clientes, frota, financeiro, atendimento e indicadores — com foco em clareza e produtividade.
-
-> Parte dos projetos é privada por envolver operações e dados empresariais.
-
-## Números do GitHub
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Repositórios-9-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="9 repositórios" />
-  <img src="https://img.shields.io/badge/Contribuições%20no%20último%20ano-72-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="72 contribuições no último ano" />
-  <img src="https://img.shields.io/badge/Commits%20em%20outubro%20de%202026-62-8957e5?style=for-the-badge&logo=git&logoColor=white" alt="62 commits em outubro de 2026" />
-</p>
-
-> Indicadores observados no perfil em 27/10/2026. Os cards abaixo são atualizados automaticamente. Repositórios privados podem não aparecer nos serviços públicos de estatísticas.
+> As imagens são miniaturas reais de telas e materiais dos sistemas. Sincronizador e SICX são apresentados como soluções de integração e inteligência operacional; não possuem uma tela de login pública no material localizado.
 
 ## Indicadores do perfil
 
