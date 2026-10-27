@@ -56,7 +56,7 @@ Atuo principalmente com plataformas operacionais, integrações, automação de 
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/automy-desenvolvimento/pls-gestao-operacional">
-        <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/126eac8b7661131af0030d98bd4d160f5a435a69/assets/projetos/pls-cargo.jpg" alt="Tela real do PLS Cargo" width="100%" />
+        <img src="https://github.com/automy-desenvolvimento/automy-desenvolvimento/raw/126eac8b7661131af0030d98bd4d160f5a435a69/assets/projetos/pls-cargo.jpg" alt="Tela real do PLS Cargo" width="100%" />
       </a>
       <br />
       <strong>PLS Cargo</strong><br />
@@ -64,7 +64,7 @@ Atuo principalmente com plataformas operacionais, integrações, automação de 
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/automy-desenvolvimento/sistema-de-pnr-e-tratativas-">
-        <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/126eac8b7661131af0030d98bd4d160f5a435a69/assets/projetos/caxiense.jpg" alt="Tela real do sistema Caxiense" width="100%" />
+        <img src="https://github.com/automy-desenvolvimento/automy-desenvolvimento/raw/126eac8b7661131af0030d98bd4d160f5a435a69/assets/projetos/caxiense.jpg" alt="Tela real do sistema Caxiense" width="100%" />
       </a>
       <br />
       <strong>Caxiense</strong><br />
@@ -73,13 +73,13 @@ Atuo principalmente com plataformas operacionais, integrações, automação de 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/126eac8b7661131af0030d98bd4d160f5a435a69/assets/projetos/sincronizador.jpg" alt="Tela real do Sincronizador OBTSDADOS" width="100%" />
+      <img src="https://github.com/automy-desenvolvimento/automy-desenvolvimento/raw/126eac8b7661131af0030d98bd4d160f5a435a69/assets/projetos/sincronizador.jpg" alt="Tela real do Sincronizador OBTSDADOS" width="100%" />
       <br />
       <strong>Sincronizador</strong><br />
       Painel de coleta PNR, sincronização de dados, acompanhamento de filas e operação assistida.
     </td>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/126eac8b7661131af0030d98bd4d160f5a435a69/assets/projetos/sicx.jpg" alt="Tela real de login do SICX" width="100%" />
+      <img src="https://github.com/automy-desenvolvimento/automy-desenvolvimento/raw/126eac8b7661131af0030d98bd4d160f5a435a69/assets/projetos/sicx.jpg" alt="Tela real de login do SICX" width="100%" />
       <br />
       <strong>SICX</strong><br />
       Painel de controle operacional, rastreabilidade, conferência, GPS e histórico de entregas.
@@ -87,13 +87,13 @@ Atuo principalmente com plataformas operacionais, integrações, automação de 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/126eac8b7661131af0030d98bd4d160f5a435a69/assets/projetos/transporclay.jpg" alt="Tela real do Transporclay" width="100%" />
+      <img src="https://github.com/automy-desenvolvimento/automy-desenvolvimento/raw/126eac8b7661131af0030d98bd4d160f5a435a69/assets/projetos/transporclay.jpg" alt="Tela real do Transporclay" width="100%" />
       <br />
       <strong>Transporclay</strong><br />
       Gestão de fretes, frota, manutenção, financeiro, clientes e programação.
     </td>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/126eac8b7661131af0030d98bd4d160f5a435a69/assets/projetos/nucleo-consultoria.jpg" alt="Tela real do Núcleo Consultoria" width="100%" />
+      <img src="https://github.com/automy-desenvolvimento/automy-desenvolvimento/raw/126eac8b7661131af0030d98bd4d160f5a435a69/assets/projetos/nucleo-consultoria.jpg" alt="Tela real do Núcleo Consultoria" width="100%" />
       <br />
       <strong>Núcleo-Consultoria</strong><br />
       Plataforma de gestão consultiva com clientes, projetos, financeiro e indicadores.
