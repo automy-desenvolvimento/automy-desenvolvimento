@@ -79,9 +79,10 @@ Atuo principalmente com plataformas operacionais, integrações, automação de 
       Painel de coleta PNR, sincronização de dados, acompanhamento de filas e operação assistida.
     </td>
     <td width="50%" valign="top">
-      <p align="center"><br />📊<br /><br /></p>
+      <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/main/assets/projetos/sicx.jpg" alt="Tela real de login do SICX" width="100%" />
+      <br />
       <strong>SICX</strong><br />
-      Inteligência operacional, conferência, relatórios, indicadores e acompanhamento de exceções.
+      Painel de controle operacional, rastreabilidade, conferência, GPS e histórico de entregas.
     </td>
   </tr>
   <tr>
