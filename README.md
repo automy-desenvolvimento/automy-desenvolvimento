@@ -54,6 +54,16 @@ Atuo principalmente com plataformas operacionais, integrações, automação de 
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/automy-desenvolvimento/Safety---Caxiense">
+        <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/main/assets/projetos/safety-caxiense.jpg" alt="Painel real do Safety Caxiense com score da frota, indicadores de segurança e navegação por módulos" width="100%" />
+      </a>
+      <br />
+      <strong>Safety Caxiense</strong><br />
+      Painel de segurança da frota com scorecards, ranking de motoristas, histórico de ocorrências e registro de sinistros. A versão atual tem login e persistência local em SQLite; os dados de telemetria são demonstrativos.
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/automy-desenvolvimento/pls-gestao-operacional">
         <img src="https://raw.githubusercontent.com/automy-desenvolvimento/automy-desenvolvimento/main/assets/projetos/pls-cargo.jpg" alt="Tela real do PLS Cargo" width="100%" />
@@ -101,7 +111,7 @@ Atuo principalmente com plataformas operacionais, integrações, automação de 
   </tr>
 </table>
 
-> As miniaturas são telas reais dos sistemas e materiais de demonstração. Para Sincronizador e SICX, mantive uma apresentação técnica porque não há uma tela de login pública/sanitizada disponível.
+> As miniaturas são telas reais dos sistemas e materiais de demonstração. Os indicadores do Safety Caxiense usam dados simulados nesta versão. Para Sincronizador e SICX, mantive uma apresentação técnica porque não há uma tela de login pública/sanitizada disponível.
 
 ## 🎥 Bastidores do trabalho
 
